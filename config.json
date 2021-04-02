@@ -1,0 +1,26 @@
+{
+
+"params":{
+
+    "local_server":"True",
+    "local_uri" :"mysql://root:@localhost/thecode-geek",
+    "prod_uri" :"mysql://root:@localhost/thecode-geek",
+    "fb_url":"https://facebook.com/thecode-geek",
+    "tw_url":"https://twitter.com/thecode-geek",
+    "gh_url": "https://github.com/thecode-geek",
+    "blog_name":"thecode-geek",
+    "gmail-user":"youremailaddress@example.com",
+    "gmail-password":"yourpassword",
+    "about_text": "About The Author",
+    "no_of_post": 2,
+    "login_image":"login.svg",
+    "admin_user": "username",
+    "admin_password": "12345",
+    "upload_location":"C:\\Users\\Ankur\\Desktop\\FlaskProject\\Flask_Blog\\static"
+
+
+}
+
+
+
+}
